@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [achaljhawar.netlify.app](achaljhawar.netlify.app)
 
-- 📝 I regulary write articles on [https://medium.com/@achaldps/how-to-build-a-google-assistant-action-on-dialogflow-779cd5df234a](https://medium.com/@achaldps/how-to-build-a-google-assistant-action-on-dialogflow-779cd5df234a)
+- 📝 I regulary write articles on [Medium Digest](https://medium.com/@achaldps/how-to-build-a-google-assistant-action-on-dialogflow-779cd5df234a)
 
 - 💬 Ask me about **Python , MySql and Frontend development**
 
