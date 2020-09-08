@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achal</h1>
 <h3 align="center"> I am a 14 year old ,Certified Google Actions Developer </h3>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KG-1510/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
 
 - 🌱 I’m currently learning **Android Development**
 
