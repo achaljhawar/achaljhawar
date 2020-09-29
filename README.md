@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **achaldps@gmail.com**
 
-- I am currently working on <a href = "github.com/achaljhawar/DevFolio">DevFolio</a>
-- Looking for contributors for <a href = "github.com/achaljhawar/DevFolio">DevFolio</a>
-
 ### Languages and Tools
 ----
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
