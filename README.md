@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achal</h1>
-<h3 align="center"> I am a 14 year old ,Certified Google Actions Developer </h3>
+<h3 align="center"> Certified Google Actions Developer </h3>
 
 - 🌱 I’m currently learning **Android Development**
 
