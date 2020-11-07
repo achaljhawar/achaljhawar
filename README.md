@@ -21,8 +21,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
 <h3> My Github Stats</h3>
 <div>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achaljhawar&layout=compact&hide=html" alt="achaljhawar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achaljhawar&show_icons=true" alt="achaljhawar" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achaljhawar&show_icons=true" alt="achaljhawar" /></p>
 </div>
 <p align="center">
 <a href="https://twitter.com/@achaljhawar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@achaljhawar" height="30" width="30" /></a>
