@@ -13,7 +13,6 @@
 - I am a open-source contributor .
 
 <br/>
-<br/>
 <h1 align="center"> My Github Stats</h1>
 <div align="center">
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achaljhawar&show_icons=true" alt="achaljhawar" /></p>
