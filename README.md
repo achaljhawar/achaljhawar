@@ -20,5 +20,5 @@
 <br />
 <br />
 <h1 align="center">Languages</h1>
-<img src="Languages2.svg" width="40%" align="left"><img src="languages.svg" width="55%" align="right">
+<img src="Languages2.svg" width="40%" align="right"><img src="languages.svg" width="55%" align="left">
 
