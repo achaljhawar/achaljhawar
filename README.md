@@ -14,8 +14,11 @@
 
 <br/>
 <br/>
-<h2 align="center"> My Github Stats</h2>
+<h1 align="center"> My Github Stats</h1>
 <div align="center">
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achaljhawar&show_icons=true" alt="achaljhawar" /></p>
 </div>
+
+<h1 align="center">Languages</h1>
+<img src="Languages2.svg" width="45%" align="left"><img src="languages.svg" width="50%" align="right">
 
