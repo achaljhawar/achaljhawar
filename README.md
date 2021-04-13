@@ -19,6 +19,6 @@
 </div>
 <br />
 <br />
-<h1 align="center">Languages</h1>
+<h1 align="center"> My Languages</h1>
 <img src="Languages2.svg" width="40%" align="right"><img src="languages.svg" width="55%" align="left">
 
