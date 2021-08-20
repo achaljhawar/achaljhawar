@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web development**
 
-- I'm currently interested in Javascript and Python.
+- I'm currently interested in Python and Typescript.
 
 - 🖤 I love to create chatbots for social media platform like Slack and Discord.
 
