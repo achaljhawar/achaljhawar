@@ -20,6 +20,4 @@
 </div>
 <br />
 <br />
-<h1 align="center"> My Expertise</h1>
-<img src="Languages2.svg" width="40%" align="right"><img src="languages.svg" width="55%" align="left">
 
