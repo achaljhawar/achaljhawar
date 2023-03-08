@@ -1,6 +1,6 @@
 <img src="profile.svg" width="50%" align="right">
 <h1 align="center">Hi 👋, I'm Achal</h1>
-<h3 align="center"> 16 y/o frontend developer and designer. </h3>
+<h3 align="center"> 17 y/o frontend developer and designer. </h3>
 
 - 🎓 I’m currently learning Physics , Chemistry and Maths.
 
