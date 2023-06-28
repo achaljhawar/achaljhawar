@@ -8,16 +8,8 @@
 
 - I'm currently interested in Python and Typescript.
 
-- 🖤 I love to create chatbots for social media platform like Slack and Discord.
-
 - I am a open-source contributor .
 
-<br/>
-<h1 align="center"> My Github Stats</h1>
-<div align="center">
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achaljhawar&show_icons=true" alt="achaljhawar" /></p>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achaljhawar" alt="achaljhawar" /></p>
-</div>
-<br />
+
 <br />
 
