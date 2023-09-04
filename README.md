@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Achal</h1>
 <h3 align="center"> 17 y/o frontend developer and designer. </h3>
 
-- 🎓 I’m currently learning Physics , Chemistry and Maths.
+- 🎓 I’m currently a student at BITS Pilani.
 
 - 💬 Ask me about **Web development**
 
