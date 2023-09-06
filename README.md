@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web development**
 
-- I'm currently interested in Python and Typescript.
+- 📚  I'm currently interested in solidity and NLP.
 
 - I am a open-source contributor .
 
